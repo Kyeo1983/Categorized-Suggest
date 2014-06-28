@@ -6,7 +6,7 @@ The category bar will float along with the scroll to maintain the context for us
 
 
 
-USAGE
+Usage
 ======
 
 Add this HTML &lt;div&gt; to your page:     &lt;div class="searchform"&gt;&lt;div&gt;
@@ -14,7 +14,7 @@ And import search.css and search.js for the searchbar to initialise.
 
 
 
-GETTING STARTED
+Getting Started
 ===============
 
 Data returned to the search bar is assumed to be JSON with 3 properties in each item: key, description and type.
@@ -24,7 +24,7 @@ description is the label to show on the searchbar's results.
 
 
 
-CUSTOMIZATION
+Customization
 ==============
 
 Handle your own data source at the search.js's _search function.
