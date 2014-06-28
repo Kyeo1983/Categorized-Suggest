@@ -1,0 +1,79 @@
+/* HTML ELEMENTS */
+.searchform * { 
+  font-family: "Segoe UI", "Lucida Grande", Arial, sans-serif;
+}
+
+ 
+/* SEARCH FORM */
+.searchform div input {
+   float: left;
+   font-size: 18px;
+   padding: 5px;
+   border: #3F51B5 1px solid; /* color 500 */
+}
+.searchform div input[type="text"] {
+  width: 290px;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+
+/* SUGGESTIONS */
+.suggestions {
+  position: absolute;
+  width: 300px;
+  height: 150px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  display: none;
+  border: #3F51B5 1px solid; /* color 500 */
+  background-color: white;
+  z-index: 999;
+}
+
+
+
+/* SEARCHRESULTS */
+.searchresults { 
+  border: #3F51B5 1px solid; /* color 500 */
+  font-size: 16px;
+}
+/* Result styling */
+.searchresults span { 
+  display: block;
+  color: rgba(0, 0, 0, 0.87);
+  padding: 0px 5px;
+  position: relative;
+  height: 30px;
+  line-height: 30px;
+}
+.searchresults span.category { 
+  color: #ffffff;
+  z-Index: 999;
+  background-color: #3F51B5; /* color 500 */
+  position: relative;
+}
+.searchresults a {
+  display: block;
+  clear: left; 
+  line-height: 25px;
+  cursor: pointer;
+}
+/* Result styling:hover */
+.searchresults a:hover , .searchresults a.selected {
+  background-color:#C5CAE9; /* color 100 */
+}
+.searchresults a:hover span, .searchresults a.selected span {
+  color: rgba(0, 0, 0, 0.54);
+}
+
+
+/*** Search Button ***/
+.searchform .searchbutton {
+  height: 40px;
+  width: 40px;
+  margin: 0px 5px;
+  border: none;
+  background: transparent;
+  background-image : url('http://icons.iconarchive.com/icons/graphicloads/100-flat/256/zoom-search-2-icon.png');
+  background-size: 100% 100%;
+}
