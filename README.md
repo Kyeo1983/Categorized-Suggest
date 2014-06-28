@@ -1,4 +1,4 @@
-Search_With_Categorization
+Search With Categorization
 ==========================
 
 Search bar with suggestions that categorizes the results.
