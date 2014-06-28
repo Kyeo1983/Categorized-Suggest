@@ -17,7 +17,7 @@ See a demo <a href="http://codepen.io/Kyeo1983/full/yohbs" target="_blank">here<
 Usage
 ======
 
-Add this HTML &lt;div&gt; to your page:     &lt;div class="searchform"&gt;&lt;div&gt;
+Add this HTML &lt;div&gt; to your page:     &lt;div class="searchform"&gt;&lt;/div&gt;
 And import search.css and search.js for the searchbar to initialise.
 
 
