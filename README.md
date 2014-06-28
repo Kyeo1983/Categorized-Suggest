@@ -35,4 +35,4 @@ Feel free to change the css for different look and feel.
 
 Demo
 =====
-See a demo <a href="http://codepen.io/Kyeo1983/full/yohbs">here</a>.
+See a demo <a href="http://codepen.io/Kyeo1983/full/yohbs" target="_blank">here</a>.
