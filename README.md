@@ -9,8 +9,7 @@ The category bar will float along with the scroll to maintain the context for us
 USAGE
 ======
 
-Add this HTML <div> to your page:
-    <div class="searchform"></div>
+Add this HTML &lt;div&gt; to your page:     &lt;div class="searchform"&gt;&lt;div&gt;
 And import search.css and search.js for the searchbar to initialise.
 
 
