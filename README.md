@@ -30,3 +30,9 @@ Customization
 Handle your own data source at the search.js's _search function.
 Handle your own click/select event at the search.js's _select function.
 Feel free to change the css for different look and feel.
+
+
+
+Demo
+=====
+See a demo <a href="http://codepen.io/Kyeo1983/full/yohbs">here</a>.
