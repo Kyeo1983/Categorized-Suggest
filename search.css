@@ -2,7 +2,9 @@
 .searchform * { 
   font-family: "Segoe UI", "Lucida Grande", Arial, sans-serif;
 }
-
+.searchbar {
+  border-radius: 10px;
+}
  
 /* SEARCH FORM */
 .searchform div input {
