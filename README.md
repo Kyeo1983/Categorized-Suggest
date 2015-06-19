@@ -4,7 +4,7 @@ Search With Categorization
 Search bar with suggestions that categorizes the results.
 The category bar will float along with the scroll to maintain the context for users.
 
-<img src="https://raw.githubusercontent.com/Kyeo1983/Search_With_Categorization/master/sample/screenshot.jpg"/>
+<img src="https://raw.githubusercontent.com/Kyeo1983/Search_With_Categorization/master/sample/search.gif"/>
 
 
 
